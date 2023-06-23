@@ -7,7 +7,7 @@ classes are denotedby '.'
 
 body {
 	background-color: #fffcde;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Ysabeau Office', sans-serif;
 }
 
 #main {
@@ -21,6 +21,11 @@ body {
 
 #profile {
 	text-align: center;
+}
+
+#profile:hover {
+	background-color: white;
+	cursor:copy;
 }
 
 #profile-pic {
